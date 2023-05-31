@@ -1,4 +1,4 @@
-# Project Name
+# Tailwind CSS Practice
 
 This project is a [Tailwind CSS](https://tailwindcss.com/) project aimed at creating a modern, responsive, and highly customizable user interface. It leverages the power of Tailwind CSS, a utility-first CSS framework, to streamline the development process and provide a wide range of pre-designed components and utility classes.
 
@@ -8,9 +8,12 @@ To get started with this project, follow the instructions below:
 
 1. Clone the repository to your local machine.
 2. Install the required dependencies using your preferred package manager (`npm install`, `yarn install`, etc.).
-3. Customize the project by modifying the configuration file (`tailwind.config.js`) to suit your specific needs.
-4. Start the development server (`npm run dev`, `yarn dev`, etc.) to see the project in action.
-5. Begin building your user interface by utilizing the provided Tailwind CSS classes and components.
+3. Start the development server (`npm run build`, `yarn build`, etc.) to build the project and create the necessary files.
+4. Open the `index.html` file in your preferred web browser to see the project in action.
+    - Alternatively, you can use a live server extension or a development server to run the project.
+    - If you're using a live server extension, simply right-click on the `index.html` file and select "Open with Live Server."
+    - If you're using a development server, follow the specific instructions for the server you are using (e.g., `npm run dev`, `yarn dev`, etc.).
+Once you've completed these steps, the project should be up and running, and you can start building your user interface by utilizing the provided Tailwind CSS classes and components.
 
 ## Features
 
