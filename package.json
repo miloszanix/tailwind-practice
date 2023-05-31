@@ -1,0 +1,16 @@
+{
+  "name": "tailwind-practice",
+  "version": "1.0.0",
+  "description": "This project is a [Tailwind CSS](https://tailwindcss.com/) project aimed at creating a modern, responsive, and highly customizable user interface. It leverages the power of Tailwind CSS, a utility-first CSS framework, to streamline the development process and provide a wide range of pre-designed components and utility classes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "npx tailwindcss -i ./src/input.css -o ./dist/output.css --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.3.2"
+  }
+}
